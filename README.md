@@ -5,7 +5,7 @@ Since my childhood, I’ve always been passionate and curious about technology. 
 
 Learn More About Me and My Studies
 
-🔗 Visit my blog
+🔗 **[Visit my blog](https://cnthigu.github.io/)**
  — Articles about programming and software development
 
 Contact
