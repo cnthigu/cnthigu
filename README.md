@@ -1,14 +1,17 @@
 ![Contador de Visitas](https://komarev.com/ghpvc/?username=cnthigu&color=blue&style=flat-square)
 
-Meu nome é **Higor Carniato**.
-Desde minha infância, sempre fui apaixonado e curioso quando se tratava de tecnologia. Em 2016, tive a oportunidade de começar a trabalhar na área em que venho atuando desde então.
+My name is Higor Carniato.
+Since my childhood, I’ve always been passionate and curious about technology. In 2016, I had the opportunity to start working in the field where I’ve been active ever since.
 
-## Para saber mais sobre mim e meus estudos:
+Learn More About Me and My Studies
 
-🔗 **[Visite meu blog](https://cnthigu.github.io/)** - Artigos sobre programação e desenvolvimento
+🔗 Visit my blog
+ — Articles about programming and software development
 
-## Contato
+Contact
 
-- **Email:** higorzen77@gmail.com
-- **GitHub:** github.com/cnthigu
-- **X (Twitter):** @higorcarniato1
+Email: higorzen77@gmail.com
+
+GitHub: github.com/cnthigu
+
+X (Twitter): @higorcarniato1
