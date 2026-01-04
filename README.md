@@ -9,9 +9,5 @@ Learn More About Me and My Studies
  — Articles about programming and software development
 
 Contact
-
-Email: higorzen77@gmail.com
-
 GitHub: github.com/cnthigu
-
 X (Twitter): @higorcarniato1
