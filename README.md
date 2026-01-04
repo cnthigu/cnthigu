@@ -7,7 +7,3 @@ Learn More About Me and My Studies
 
 🔗 **[Visit my blog](https://cnthigu.github.io/)**
  — Articles about programming and software development
-
-Contact
-GitHub: github.com/cnthigu
-X (Twitter): @higorcarniato1
