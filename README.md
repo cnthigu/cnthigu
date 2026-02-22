@@ -7,4 +7,3 @@ Learn More About Me and My Studies
  — Articles about programming and software development
  
 ![Contador de Visitas](https://komarev.com/ghpvc/?username=cnthigu&color=blue&style=flat-square)
-![Total Stars](https://img.shields.io/badge/Total%20Stars-123-blue?style=flat-square)
